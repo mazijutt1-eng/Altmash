@@ -1,0 +1,234 @@
+[
+  {
+    "id": "gypsum-peripheral",
+    "src": "/assets/images/gypsum-peripheral.webp",
+    "title": "Layered Gypsum Ceiling",
+    "label": "Gypsum · Living Room",
+    "category": "gypsum layered living",
+    "featured": true
+  },
+  {
+    "id": "surface-mounted-lights",
+    "src": "/assets/images/surface-mounted-lights.webp",
+    "title": "Surface-Mounted Light Ceiling",
+    "label": "Gypsum · Lighting",
+    "category": "gypsum lighting living",
+    "featured": true
+  },
+  {
+    "id": "cove-recessed-lights",
+    "src": "/assets/images/cove-recessed-lights.webp",
+    "title": "Cove & Recessed Lights",
+    "label": "Cove Light · Living Room",
+    "category": "cove lighting living",
+    "featured": true
+  },
+  {
+    "id": "perimeter-band-gypsum",
+    "src": "/assets/images/perimeter-band-gypsum.webp",
+    "title": "Perimeter Band Ceiling",
+    "label": "Gypsum · Simple",
+    "category": "gypsum living",
+    "featured": true
+  },
+  {
+    "id": "textured-paint-cove",
+    "src": "/assets/images/textured-paint-cove.webp",
+    "title": "Textured Paint & Cove Lights",
+    "label": "Paint · Cove Light",
+    "category": "cove paint living",
+    "featured": true
+  },
+  {
+    "id": "large-peripheral-spotlights",
+    "src": "/assets/images/large-peripheral-spotlights.webp",
+    "title": "Peripheral Ceiling with Spotlights",
+    "label": "Gypsum · Spotlights",
+    "category": "gypsum lighting living",
+    "featured": true
+  },
+  {
+    "id": "cove-light",
+    "src": "/assets/images/cove-light.webp",
+    "title": "Warm Cove Light Ceiling",
+    "label": "Cove Light · Living Room",
+    "category": "cove living",
+    "featured": true
+  },
+  {
+    "id": "drop-down-peripheral",
+    "src": "/assets/images/drop-down-peripheral.webp",
+    "title": "Drop-Down Peripheral Ceiling",
+    "label": "Gypsum · Layered",
+    "category": "gypsum layered living",
+    "featured": false
+  },
+  {
+    "id": "magnetic-track-lights",
+    "src": "/assets/images/magnetic-track-lights.webp",
+    "title": "Magnetic Track Lighting",
+    "label": "Lighting · Living Room",
+    "category": "lighting living",
+    "featured": false
+  },
+  {
+    "id": "wooden-details",
+    "src": "/assets/images/wooden-details.webp",
+    "title": "Wooden Detail Ceiling",
+    "label": "Wood · Gypsum",
+    "category": "wooden gypsum living",
+    "featured": false
+  },
+  {
+    "id": "double-layer-gypsum",
+    "src": "/assets/images/double-layer-gypsum.webp",
+    "title": "Double-Layer Gypsum Ceiling",
+    "label": "Gypsum · Multi-Layer",
+    "category": "gypsum layered lighting",
+    "featured": false
+  },
+  {
+    "id": "clean-geometry-beige",
+    "src": "/assets/images/clean-geometry-beige.webp",
+    "title": "Clean Geometry Ceiling",
+    "label": "Gypsum · Modern",
+    "category": "gypsum layered living",
+    "featured": false
+  },
+  {
+    "id": "bedroom-cove-lights",
+    "src": "/assets/images/bedroom-cove-lights.webp",
+    "title": "Bedroom Cove Lights",
+    "label": "Cove Light · Bedroom",
+    "category": "cove bedroom",
+    "featured": false
+  },
+  {
+    "id": "single-layer-rectangular",
+    "src": "/assets/images/single-layer-rectangular.png",
+    "title": "Single-Layer Rectangular Ceiling",
+    "label": "Gypsum · Paint Finish",
+    "category": "gypsum living paint",
+    "featured": false
+  },
+  {
+    "id": "cove-lighting-rectangular",
+    "src": "/assets/images/cove-lighting-rectangular.png",
+    "title": "Rectangular Cove Ceiling",
+    "label": "Gypsum · Cove Light",
+    "category": "gypsum cove living",
+    "featured": false
+  },
+  {
+    "id": "spot-cove-lighting",
+    "src": "/assets/images/spot-cove-lighting.png",
+    "title": "Spot & Cove Lighting",
+    "label": "Cove · Spotlights",
+    "category": "cove lighting living",
+    "featured": false
+  },
+  {
+    "id": "cove-spot-lights",
+    "src": "/assets/images/cove-spot-lights.png",
+    "title": "Cove & Spot Lights",
+    "label": "Cove · Spotlights",
+    "category": "cove lighting living",
+    "featured": false
+  },
+  {
+    "id": "rectangle-spot-cove",
+    "src": "/assets/images/rectangle-spot-cove.png",
+    "title": "Rectangle Spot & Cove Ceiling",
+    "label": "Cove · Living Room",
+    "category": "cove lighting living",
+    "featured": false
+  },
+  {
+    "id": "square-recessed-cove",
+    "src": "/assets/images/square-recessed-cove.png",
+    "title": "Square Recessed Cove Ceiling",
+    "label": "Gypsum · Cove Light",
+    "category": "gypsum cove living",
+    "featured": false
+  },
+  {
+    "id": "strip-lighting-painted",
+    "src": "/assets/images/strip-lighting-painted.png",
+    "title": "Strip Lighting & Painted Ceiling",
+    "label": "Gypsum · Paint Finish",
+    "category": "gypsum lighting paint",
+    "featured": false
+  },
+  {
+    "id": "wooden-gypsum-pendant",
+    "src": "/assets/images/wooden-gypsum-pendant.png",
+    "title": "Wood & Gypsum with Pendants",
+    "label": "Wood · Gypsum",
+    "category": "wooden gypsum lighting",
+    "featured": false
+  },
+  {
+    "id": "square-cove-spot-profile",
+    "src": "/assets/images/square-cove-spot-profile.png",
+    "title": "Square Cove, Spot & Profile Lights",
+    "label": "Cove · Profile Light",
+    "category": "cove lighting gypsum",
+    "featured": false
+  },
+  {
+    "id": "single-layer-cove-rectangle",
+    "src": "/assets/images/single-layer-cove-rectangle.png",
+    "title": "Rectangle Ceiling with Cove Lights",
+    "label": "Cove · Living Room",
+    "category": "cove gypsum living",
+    "featured": false
+  },
+  {
+    "id": "pop-gypsum-layered",
+    "src": "/assets/images/pop-gypsum-layered.png",
+    "title": "POP & Gypsum Layered Ceiling",
+    "label": "POP · Gypsum",
+    "category": "pop gypsum layered",
+    "featured": false
+  },
+  {
+    "id": "gypsum-rectangle-paint",
+    "src": "/assets/images/gypsum-rectangle-paint.png",
+    "title": "Gypsum Rectangle Paint Finish",
+    "label": "Gypsum · Paint Finish",
+    "category": "gypsum paint living",
+    "featured": false
+  },
+  {
+    "id": "solid-wood-polish",
+    "src": "/assets/images/solid-wood-polish.png",
+    "title": "Solid Wood Ceiling",
+    "label": "Wood · Polish Finish",
+    "category": "wooden paint",
+    "featured": false
+  },
+  {
+    "id": "pop-l-shaped",
+    "src": "/assets/images/pop-l-shaped.png",
+    "title": "L-Shaped POP Ceiling",
+    "label": "POP · Recessed Lights",
+    "category": "pop gypsum lighting",
+    "featured": false
+  },
+  {
+    "id": "bedroom-rectangular",
+    "src": "/assets/images/bedroom-rectangular.png",
+    "title": "Bedroom Rectangular Ceiling",
+    "label": "Bedroom · Gypsum",
+    "category": "bedroom gypsum",
+    "featured": false
+  },
+  {
+    "id": "profile-recessed-lighting",
+    "src": "/assets/images/profile-recessed-lighting.png",
+    "title": "Profile & Recessed Lighting",
+    "label": "Lighting · Gypsum",
+    "category": "lighting gypsum living",
+    "featured": false
+  }
+]

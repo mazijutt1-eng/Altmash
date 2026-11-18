@@ -1,0 +1,13 @@
+{
+  "name": "altamash-interiors",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Altamash Interiors website with image admin dashboard",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node scripts/seed-gallery.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

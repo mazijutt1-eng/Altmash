@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 68" role="img" aria-labelledby="title">
+  <title id="title">Altamash Interiors</title>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6d89a"/>
+      <stop offset="0.5" stop-color="#d9ad62"/>
+      <stop offset="1" stop-color="#a97b35"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe6ad" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#d9ad62" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- icon tile -->
+  <rect x="2" y="2" width="64" height="64" rx="16" fill="#101720" stroke="url(#gold)" stroke-width="1.5"/>
+
+  <!-- light glow -->
+  <path d="M34 12 L24 30 H44 Z" fill="url(#glow)" opacity="0.35"/>
+  <circle cx="34" cy="17" r="3.2" fill="#ffe0a0"/>
+
+  <!-- layered ceiling lines -->
+  <path d="M17 30 H51" stroke="url(#gold)" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M21 39 H55" stroke="url(#gold)" stroke-width="2.4" stroke-linecap="round" opacity="0.82"/>
+  <path d="M17 48 H47" stroke="url(#gold)" stroke-width="2.4" stroke-linecap="round" opacity="0.62"/>
+
+  <!-- wordmark -->
+  <text x="80" y="31" fill="#f7f2e8" font-family="Manrope, Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.1">ALTAMASH</text>
+  <text x="81" y="50" fill="url(#gold)" font-family="Manrope, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="5.4">INTERIORS</text>
+</svg>
