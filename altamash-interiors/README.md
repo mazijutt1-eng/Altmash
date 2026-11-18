@@ -47,7 +47,7 @@ npm run seed
 
 ## Logo
 
-The brand logo used in the website header, footer and admin dashboard is `logo.png` in the project root. Its background has been matched to the site colour `#0C1118`; the untouched original is kept as `logo-original.png`. The small browser-tab icon is `assets/images/favicon.svg`.
+The brand logo used in the website header, footer and admin dashboard is `logo.png` in the project root. It has a transparent background with dark text and gold accents so it blends into the bright/light theme. The untouched original is kept as `logo-original.png`. The small browser-tab icon is `assets/images/favicon.svg`.
 
 ## Hosting
 
